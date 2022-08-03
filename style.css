@@ -18,7 +18,7 @@ body{
 
 }
 
-.continer:hover .elemento{
+.container:hover .elemento{
     border-radius: 50%;
     transform: translate(650px);
 }
